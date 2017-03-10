@@ -1,7 +1,7 @@
 {
     'name': 'Vietnam Translation for Odoo 9',
     'version': '1.0',
-    'category': 'odoo.vietnam.initerp',
+    'category': 'Extra Tools',
     'summary': '',
     'description': """
 Translate to Vietnamese
